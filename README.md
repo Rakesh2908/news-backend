@@ -2,6 +2,10 @@
 
 The backend of FlashBrief is built with Node.js and Express, providing APIs to fetch and filter real-time news articles based on categories and countries.
 
+## Live Demo
+
+Explore the live application here: [FlashBrief on Vercel](https://rakesh-news-aggregator.vercel.app/)
+
 ## Table of Contents
 
 - [Features](#features)
