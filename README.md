@@ -1,9 +1,3 @@
-
----
-
-### **FlashBrief News Aggregator - Backend `README.md`**
-
-```markdown
 # FlashBrief - Backend
 
 The backend of FlashBrief is built with Node.js and Express, providing APIs to fetch and filter real-time news articles based on categories and countries.
