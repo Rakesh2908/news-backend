@@ -35,7 +35,7 @@ The backend of FlashBrief is built with Node.js and Express, providing APIs to f
 1. Clone the repository:
     ```bash
     git clone https://github.com/Rakesh2908/news-backend.git
-    cd FlashBrief-Backend
+    cd news-frontend
     ```
 
 2. Install dependencies:
